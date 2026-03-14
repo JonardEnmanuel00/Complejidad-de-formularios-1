@@ -1,0 +1,13 @@
+C:\Users\MSI THIN 15\OneDrive\Escritorio\Actividades Practicas\One-Proyect\Complejidad con Formularios\Complejidad con Formularios\bin\Debug\Complejidad con Formularios.exe.config
+C:\Users\MSI THIN 15\OneDrive\Escritorio\Actividades Practicas\One-Proyect\Complejidad con Formularios\Complejidad con Formularios\bin\Debug\Complejidad con Formularios.exe
+C:\Users\MSI THIN 15\OneDrive\Escritorio\Actividades Practicas\One-Proyect\Complejidad con Formularios\Complejidad con Formularios\bin\Debug\Complejidad con Formularios.pdb
+C:\Users\MSI THIN 15\OneDrive\Escritorio\Actividades Practicas\One-Proyect\Complejidad con Formularios\Complejidad con Formularios\obj\Debug\Complejidad con Formularios.csproj.AssemblyReference.cache
+C:\Users\MSI THIN 15\OneDrive\Escritorio\Actividades Practicas\One-Proyect\Complejidad con Formularios\Complejidad con Formularios\obj\Debug\Complejidad_con_Formularios.Form1.resources
+C:\Users\MSI THIN 15\OneDrive\Escritorio\Actividades Practicas\One-Proyect\Complejidad con Formularios\Complejidad con Formularios\obj\Debug\Complejidad_con_Formularios.FormRegistro.resources
+C:\Users\MSI THIN 15\OneDrive\Escritorio\Actividades Practicas\One-Proyect\Complejidad con Formularios\Complejidad con Formularios\obj\Debug\Complejidad_con_Formularios.Properties.Resources.resources
+C:\Users\MSI THIN 15\OneDrive\Escritorio\Actividades Practicas\One-Proyect\Complejidad con Formularios\Complejidad con Formularios\obj\Debug\Complejidad con Formularios.csproj.GenerateResource.cache
+C:\Users\MSI THIN 15\OneDrive\Escritorio\Actividades Practicas\One-Proyect\Complejidad con Formularios\Complejidad con Formularios\obj\Debug\Complejidad con Formularios.csproj.CoreCompileInputs.cache
+C:\Users\MSI THIN 15\OneDrive\Escritorio\Actividades Practicas\One-Proyect\Complejidad con Formularios\Complejidad con Formularios\obj\Debug\Complejidad con Formularios.exe
+C:\Users\MSI THIN 15\OneDrive\Escritorio\Actividades Practicas\One-Proyect\Complejidad con Formularios\Complejidad con Formularios\obj\Debug\Complejidad con Formularios.pdb
+C:\Users\MSI THIN 15\OneDrive\Escritorio\Actividades Practicas\One-Proyect\Complejidad con Formularios\Complejidad con Formularios\obj\Debug\Complejidad_con_Formularios.FormDivisas.resources
+C:\Users\MSI THIN 15\OneDrive\Escritorio\Actividades Practicas\One-Proyect\Complejidad con Formularios\Complejidad con Formularios\obj\Debug\Complejidad_con_Formularios.FormFibonacci.resources
